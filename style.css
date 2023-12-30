@@ -1,0 +1,207 @@
+* {
+    margin:0;
+    padding:0;
+   color: #ffffff;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+img {
+inline-size: auto;
+    padding-left: 10px;
+}
+#abd{
+    width:60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+    color: black;
+}
+#abe{
+    width:60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abf{
+    width:60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#aby{
+    width:70px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abg{
+    width:60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abt{
+    width:60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abh{
+    width:120px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abo{
+    width:100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abk{
+    width:60px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abl{
+    width:70px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+#abm{
+    width:80px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+}
+.box {
+height: 50px;
+width:500px ;
+background-color:black;
+border-radius: 30px;
+display: flex;
+align-items: center;
+padding: 20px;
+}
+.box > i {
+font-size: 20px;
+color:#ffffff;
+}
+.box > input{
+    flex: 1;
+    height: 40px;
+border: none;
+outline:none;
+font-size: 18px;
+padding-left: 10px;
+background-color: rgb(0, 0, 0);
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.one{
+width: 300px;
+height: 300px;
+text-align: center;
+display: block;
+float:left;
+color: black;
+}
+.two{
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+    text-align: center;
+    display: block;
+    float:left;
+    color: black;
+    }
+    .three{
+        width: 300px;
+        height: 200px;
+        margin-left: 10px;
+        text-align: center;
+        display: block;
+        float:left;
+        color: black;
+        }
+        .four{
+            width: 300px;
+            height: 200px;
+            text-align: center;
+            display: block;
+            float:left;
+            color: black;
+            }
+            .five{
+                width: 300px;
+                height: 200px;
+                text-align: center;
+                display: block;
+                float:left;
+                color: black;
+                margin-top:3px;
+                }
+                .six{
+                    width: 300px;
+                    height: 200px;
+                    text-align: center;
+                    margin-left: 10px;
+                    display: block;
+                    float:left;
+                    color: black;
+                    margin-top:3px;
+                    }
+                    .seven{
+                        width: 300px;
+                        height: 200px;
+                        text-align: center;
+                        margin-left: 10px;
+                        display: block;
+                        float:left;
+                        color: black;
+                        margin-top:3px;;
+                        }
+                        .eight{
+                            width: 300px;
+                            height: 300px;
+                            text-align: center;
+                            display: block;
+                            float:left;
+                            color: black;
+                            margin-top:16%;
+                            }
+                            .nine{
+                                width: 300px;
+                                height: 200px;
+                                text-align: center;
+                                margin-left: 10px;
+                                display: block;
+                                float:left;
+                                color: black;
+                                margin-top:16%;
+                                }
+                                .ten{
+                                    width: 300px;
+                                    height: 200px;
+                                    text-align: center;
+                                    margin-left: 10px;
+                                    display: block;
+                                    float:left;
+                                    color: black;
+                                    margin-top:16%;
+                                    }
+                            
